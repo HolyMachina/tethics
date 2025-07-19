@@ -23,7 +23,6 @@ export const metadata = {
     telephone: false,
   },
 }
-
  
 const navbar = (
   <Navbar
