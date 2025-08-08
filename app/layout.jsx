@@ -61,7 +61,7 @@ const footer = (
  
 export default async function RootLayout({ children }) {
   return (
-    <html lang="en" dir="ltr">
+    <html lang="en" dir="ltr" suppressHydrationWarning>
       <Head color={{hue: 351, saturation: 100, lightness: {light: 32, dark: 76}}}>
         {
         /* Your additional tags should be passed as `children` of `<Head>` element */
