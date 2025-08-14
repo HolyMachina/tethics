@@ -33,13 +33,13 @@ const navbar = (
       <span><b>Josie's Blog</b><br />An elder millennial take</span>
     </>
     }
-    projectLink='https://cutie.city/@Josie'
+    projectLink='https://lgbtqia.space/@holymachina'
     projectIcon={
       <svg width="24" height="24">
       <image width="24" height="24" href="/images/mastodon-logo.png" alt="Mastodon Logo" />
       </svg>
     }
-    chatLink='https://bsky.app/profile/last-contact.net'
+    chatLink='https://bsky.app/profile/lastcontact.space'
     chatIcon={
       <svg width="24" height="24">
       <image width="24" height="24" href="/images/bluesky-logo.png" alt="BlueSky Logo" />
@@ -51,7 +51,7 @@ const navbar = (
 const footer = (
   <Footer>
     <span suppressHydrationWarning>
-        Hit me up on <a rel="me" href="https://cutie.city/@Josie">Mastodon</a>, <a href="https://bsky.app/profile/last-contact.net" rel="nofollow">Bluesky</a>, <a href="https://discord.gg/kGT7FA7fWr" rel="nofollow">Discord</a> or <a href="https://www.linkedin.com/in/jotroian" rel="nofollow">LinkedIn</a>.
+        Hit me up on <a rel="me" href="https://lgbtqia.space/@holymachina">Mastodon</a>, <a href="https://bsky.app/profile/lastcontact.space" rel="nofollow">Bluesky</a>, <a href="https://discord.gg/kGT7FA7fWr" rel="nofollow">Discord</a> or <a href="https://www.linkedin.com/in/jotroian" rel="nofollow">LinkedIn</a>.
       <br />
         <a href="https://last-contact.net/">Last Contact</a> &#169; {new Date().getFullYear()} by <a href="https://last-contact.net/about/aboutjosie">Josephine Troiani</a> is licensed under Creative Commons.
       <br />
