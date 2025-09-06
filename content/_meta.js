@@ -1,5 +1,3 @@
-/* eslint sort-keys: error */
-
 export default {
     linktoportfolio: {
         title: 'Josie\'s Portfolio',
@@ -15,9 +13,9 @@ export default {
     
     separatortechnology: {type: 'separator', title: 'Technology'},
 
-    separatoridentity: {type: 'separator', title: 'Identity (values)'},
+    //separatoridentity: {type: 'separator', title: 'Values'},
     
-    separatorpolitics: {type: 'separator', title: 'Politics (laws)'},
+    //separatorpolitics: {type: 'separator', title: 'Laws'},
 
     separatormeta: {type: 'separator', title: 'Meta Site Stuff'},
     index: 'Home',
