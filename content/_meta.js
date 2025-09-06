@@ -1,3 +1,5 @@
+/* eslint sort-keys: error */
+
 export default {
     linktoportfolio: {
         title: 'Josie\'s Portfolio',
@@ -9,12 +11,14 @@ export default {
         href: 'https://lastcontact.space',
         type: 'page'
     },    
-    separatorevents: {type: 'separator', title: 'World Events'},
-    events23: '2023',
+    separatorethics: {type: 'separator', title: 'Ethics'},
     
-    seperatortrans: {type: 'separator', title: 'Transgender Identity'},
-    trans24: '2024',
+    separatortechnology: {type: 'separator', title: 'Technology'},
+
+    separatoridentity: {type: 'separator', title: 'Identity (values)'},
     
+    separatorpolitics: {type: 'separator', title: 'Politics (laws)'},
+
     separatormeta: {type: 'separator', title: 'Meta Site Stuff'},
     index: 'Home',
     privacy: 'Privacy Policy',
