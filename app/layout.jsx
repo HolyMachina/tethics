@@ -52,7 +52,7 @@ const footer = (
     <span suppressHydrationWarning>
         Hit me up on <a rel="me" href="https://lgbtqia.space/@holymachina">Mastodon</a>, <a href="https://bsky.app/profile/lastcontact.space" rel="nofollow">Bluesky</a>, or <a href="https://www.linkedin.com/in/jotroian" rel="nofollow">LinkedIn</a>.
       <br />
-        <a href="https://last-contact.net/">Tethics</a> &#169; {new Date().getFullYear()} by <a href="https://last-contact.net/about/aboutjosie">Josephine Troiani</a> is licensed under Creative Commons.
+        <a href="https://last-contact.net/">Tethics</a> &#169; {new Date().getFullYear()} by <a href="https://josietroiani.me">Josephine Troiani</a> is licensed under Creative Commons.
       <br />
         <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0<Image width={80} height={15} src='/images/byncsa-80x15.png' alt="Official CC BY-NC-SA press kit banner." rel="nofollow" /></a>
       </span>
